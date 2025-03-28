@@ -1,0 +1,85 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1741356774
+VkcYVRlFod_F64K=YgfI7n2
+04 6 4 work DSP_tb fast 0
+=1-c03532e70cf3-67cafee6-38e-99b0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vDSP
+Z1 !s110 1741356769
+!i10b 1
+!s100 Wf99P4B@<HBc][gneClcf1
+IH]71o>JoCT`?E14TVSmUo2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Courses/Digital_Design_Diploma/Projects/1- DSP
+w1741356755
+8DSP.v
+FDSP.v
+L0 10
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z5 !s108 1741356769.000000
+Z6 !s107 DSP_tb.v|DSP.v|
+Z7 !s90 -reportprogress|300|DSP.v|DSP_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@d@s@p
+vDSP_tb
+R1
+!i10b 1
+!s100 OeMffeE84=0X3Oz6FKO=d0
+I:8@>Edb]e2>_G1N?KSDFb3
+R2
+R3
+w1741356361
+8DSP_tb.v
+FDSP_tb.v
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+n@d@s@p_tb
+vMux_Reg
+!s110 1741356762
+!i10b 1
+!s100 8820DdDi`k=B=X@TnF06O2
+IoONW^?DP1lGON=z8]Y4ce3
+R2
+R3
+w1741355579
+8D:/Courses/Digital_Design_Diploma/Projects/1- DSP/Mux_Reg.v
+FD:/Courses/Digital_Design_Diploma/Projects/1- DSP/Mux_Reg.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1741356762.000000
+!s107 D:/Courses/Digital_Design_Diploma/Projects/1- DSP/Mux_Reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Courses/Digital_Design_Diploma/Projects/1- DSP/Mux_Reg.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@mux_@reg

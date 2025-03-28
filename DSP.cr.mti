@@ -1,0 +1,16 @@
+{D:/Courses/Digital_Design_Diploma/Projects/1- DSP/DSP_tb.v} {2 {vlog -work work -vopt -stats=none {D:\Courses\Digital_Design_Diploma\Projects\1- DSP\DSP_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DSP_tb
+** Warning: D:\Courses\Digital_Design_Diploma\Projects\1- DSP\DSP_tb.v(148): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	DSP_tb
+
+} {} {}} {D:/Courses/Digital_Design_Diploma/Projects/1- DSP/Mux_Reg.v} {1 {vlog -work work -vopt -stats=none {D:/Courses/Digital_Design_Diploma/Projects/1- DSP/Mux_Reg.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mux_Reg
+
+Top level modules:
+	Mux_Reg
+
+} {} {}}
